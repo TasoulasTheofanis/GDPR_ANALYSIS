@@ -168,14 +168,14 @@ H Ευρωπαϊκή Σύμβαση εγγυάται και διασφαλίζε
 
 [https://eur-lex.europa.eu/legal-content/EL/TXT/?uri=celex%3A32016R0679](https://eur-lex.europa.eu/legal-content/EL/TXT/?uri=celex%3A32016R0679)
 
-[https://eur-lex.europa.eu/legal-content/EL/TXT/?uri=CELEX%3A32016L0680](https://eur-lex.europa.eu/legal-content/EL/TXT/?uri=celex%3A32016R0679)
+[https://eur-lex.europa.eu/legal-content/EL/TXT/?uri=CELEX%3A32016L0680](https://eur-lex.europa.eu/legal-content/EL/TXT/?uri=CELEX%3A32016L0680)
 
-[http://www.ekdd.gr/ekdda/images/seminaria/GDPR.pdf](https://eur-lex.europa.eu/legal-content/EL/TXT/?uri=celex%3A32016R0679)
+[http://www.ekdd.gr/ekdda/images/seminaria/GDPR.pdf](http://www.ekdd.gr/ekdda/images/seminaria/GDPR.pdf)
 
-[http://web.ihu.edu.gr/mdt2017/media-files/documents/i.iglezakis-nomos-prostasiadedomenon.pdf](https://eur-lex.europa.eu/legal-content/EL/TXT/?uri=celex%3A32016R0679)
+[http://web.ihu.edu.gr/mdt2017/media-files/documents/i.iglezakis-nomos-prostasiadedomenon.pdf](http://web.ihu.edu.gr/mdt2017/media-files/documents/i.iglezakis-nomos-prostasiadedomenon.pdf)
 
-[https://opencourses.ionio.gr/modules/document/?course=DDI127](https://eur-lex.europa.eu/legal-content/EL/TXT/?uri=celex%3A32016R0679)
+[https://opencourses.ionio.gr/modules/document/?course=DDI127](https://opencourses.ionio.gr/modules/document/?course=DDI127)
 
-[http://www.capital.gr/technology/3213046/to-neo-plaisio-summorfosis-kai-o-kombikos-rolostou-upeuthunou-prostasias-dedomenon](https://eur-lex.europa.eu/legal-content/EL/TXT/?uri=celex%3A32016R0679)
+[http://www.capital.gr/technology/3213046/to-neo-plaisio-summorfosis-kai-o-kombikos-rolostou-upeuthunou-prostasias-dedomenon](http://www.capital.gr/technology/3213046/to-neo-plaisio-summorfosis-kai-o-kombikos-rolostou-upeuthunou-prostasias-dedomenon)
 
-[https://okfn.gr/gdpr-πεδίο-εφαρμογής-αρχές-και-ασφάλεια](https://eur-lex.europa.eu/legal-content/EL/TXT/?uri=celex%3A32016R0679)
+[https://okfn.gr/gdpr-πεδίο-εφαρμογής-αρχές-και-ασφάλεια](https://okfn.gr/gdpr-πεδίο-εφαρμογής-αρχές-και-ασφάλεια)
