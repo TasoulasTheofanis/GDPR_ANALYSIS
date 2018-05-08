@@ -1,22 +1,19 @@
 # Γενικός Κανονισμός Προστασίας Δεδομένων 
 
-## Συγγραφείς:[DimitrisTria](https://github.com/DimitrisTria), [TasoulasTheofanis](https://github.com/TasoulasTheofanis), [randomperson19](https://github.com/randomperson19) 
+## Συγγραφείς: [DimitrisTria](https://github.com/DimitrisTria), [TasoulasTheofanis](https://github.com/TasoulasTheofanis), [randomperson19](https://github.com/randomperson19) 
 
 ## Περιεχόμενα 
 
 - Α. Μελέτη γενικού κανονισμού προστασίας δεδομένων
-
 - Α.1. Βασικές αρχές που διέπουν τον κανονισμό
 - Α.2. Βασικά δικαιώματα του υποκειμένου των δεδομένων
 - Α.3. Ρόλος και υποχρεώσεις του υπεύθυνου προστασίας δεδομένων (ΥΠΔ)
 
 - Β. Διαδικασίες και βήματα συμμόρφωσης ενός δημόσιου οργανισμού με τον γενικό κανονισμό προστασίας δεδομένων (ΓΚΠΔ)
-
 - Β.1. Βήματα συμμόρφωσης ενός δημόσιου οργανισμού
 - Β.2. Μεθοδολογίες συμμόρφωσης για μία σχολική μονάδα με αναφορά σε συγκεκριμένες προτάσεις, εργαλεία και τεχνικές
 
 - Γ. Ανάλυση του ρόλου της Ευρωπαϊκής Ένωσης
-
 - Γ.1. Η Ευρωπαϊκή διάσταση του αντικειμένου και οι πρωτοβουλίες που αναλαμβάνει η Ευρωπαϊκή Ένωση
 - Γ.2. Συμβολή της Ευρωπαϊκής συνεργασίας
 
@@ -164,16 +161,16 @@ H Ευρωπαϊκή Σύμβαση εγγυάται και διασφαλίζε
 
 Προστασία της Ιδιωτικότητας και Τεχνολογίες Πληροφορικής και Επικοινωνιών Γκρίτζαλης Στέφανος, Λαμπρινουδάκης Κωνσταντίνος, Κάτσικας Σωκράτης, Μήτρου Λ., 2010, Παπασωτηρίου, ISBN: 978-960-7182-70-8
 
-(https://eur-lex.europa.eu/legal-content/EL/TXT/?uri=celex%3A32016R0679)[https://eur-lex.europa.eu/legal-content/EL/TXT/?uri=celex%3A32016R0679]
+[https://eur-lex.europa.eu/legal-content/EL/TXT/?uri=celex%3A32016R0679](https://eur-lex.europa.eu/legal-content/EL/TXT/?uri=celex%3A32016R0679)
 
-(https://eur-lex.europa.eu/legal-content/EL/TXT/?uri=celex%3A32016R0679)[https://eur-lex.europa.eu/legal-content/EL/TXT/?uri=CELEX%3A32016L0680]
+[https://eur-lex.europa.eu/legal-content/EL/TXT/?uri=CELEX%3A32016L0680](https://eur-lex.europa.eu/legal-content/EL/TXT/?uri=celex%3A32016R0679)
 
-(https://eur-lex.europa.eu/legal-content/EL/TXT/?uri=celex%3A32016R0679)[http://www.ekdd.gr/ekdda/images/seminaria/GDPR.pdf]
+[http://www.ekdd.gr/ekdda/images/seminaria/GDPR.pdf](https://eur-lex.europa.eu/legal-content/EL/TXT/?uri=celex%3A32016R0679)
 
-(https://eur-lex.europa.eu/legal-content/EL/TXT/?uri=celex%3A32016R0679)[http://web.ihu.edu.gr/mdt2017/media-files/documents/i.iglezakis-nomos-prostasiadedomenon.pdf]
+[http://web.ihu.edu.gr/mdt2017/media-files/documents/i.iglezakis-nomos-prostasiadedomenon.pdf](https://eur-lex.europa.eu/legal-content/EL/TXT/?uri=celex%3A32016R0679)
 
-(https://eur-lex.europa.eu/legal-content/EL/TXT/?uri=celex%3A32016R0679)[https://opencourses.ionio.gr/modules/document/?course=DDI127]
+[https://opencourses.ionio.gr/modules/document/?course=DDI127](https://eur-lex.europa.eu/legal-content/EL/TXT/?uri=celex%3A32016R0679)
 
-(https://eur-lex.europa.eu/legal-content/EL/TXT/?uri=celex%3A32016R0679)[http://www.capital.gr/technology/3213046/to-neo-plaisio-summorfosis-kai-o-kombikos-rolostou-upeuthunou-prostasias-dedomenon]
+[http://www.capital.gr/technology/3213046/to-neo-plaisio-summorfosis-kai-o-kombikos-rolostou-upeuthunou-prostasias-dedomenon](https://eur-lex.europa.eu/legal-content/EL/TXT/?uri=celex%3A32016R0679)
 
-(https://eur-lex.europa.eu/legal-content/EL/TXT/?uri=celex%3A32016R0679)[https://okfn.gr/gdpr-πεδίο-εφαρμογής-αρχές-και-ασφάλεια]
+[https://okfn.gr/gdpr-πεδίο-εφαρμογής-αρχές-και-ασφάλεια](https://eur-lex.europa.eu/legal-content/EL/TXT/?uri=celex%3A32016R0679)
