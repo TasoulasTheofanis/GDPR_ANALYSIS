@@ -1,6 +1,6 @@
 ##  Γενικός Κανονισμός Προστασίας Δεδομένων
 
-### [Πατήστε εδώ προβολή της παρούσας ανάλυσης του ΓΚΠΔ](https://tasoulastheofanis.github.io/GDPR-Analysis/)
+### [Πατήστε εδώ για προβολή της παρούσας ανάλυσης του ΓΚΠΔ](https://tasoulastheofanis.github.io/GDPR-Analysis/)
 
 ### Το παρόν αποτελεί την ομαδική εργασία στα πλαίσια του μαθήματος "Ειδικά θέματα ασφάλειας". Οι συγγραφείς είναι οι: [DimitrisTria](https://github.com/DimitrisTria),  [TasoulasTheofanis](https://github.com/TasoulasTheofanis)  και [randomperson19](https://github.com/randomperson19) 
 
