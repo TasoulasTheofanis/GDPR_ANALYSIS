@@ -2,7 +2,7 @@
 
 ### [Πατήστε εδώ για προβολή της παρούσας ανάλυσης του ΓΚΠΔ](https://tasoulastheofanis.github.io/GDPR_ANALYSIS/)
 
-### Το παρόν αποτελεί την ομαδική εργασία στα πλαίσια του μαθήματος "Ειδικά θέματα ασφάλειας". Οι συγγραφείς είναι οι: [DimitrisTria](https://github.com/DimitrisTria),  [TasoulasTheofanis](https://github.com/TasoulasTheofanis)  και [randomperson19](https://github.com/randomperson19) 
+### Το παρόν αποτελεί την ομαδική εργασία στα πλαίσια του μαθήματος "Ειδικά θέματα ασφάλειας". Οι συγγραφείς είναι οι: [DimitrisTria](https://github.com/JimTria),  [TasoulasTheofanis](https://github.com/TasoulasTheofanis)  και [randomperson19](https://github.com/randomperson19) 
 
 ### Το παρόν έχει ως στόχο την ενημέρωση σχετικά με τον Γενικό Κανονισμό Προστασίας Προσωπικών Δεδομένων και συγκεκριμένα αναλύει:
 - τις βασικές αρχές που διέπουν το νόμο
